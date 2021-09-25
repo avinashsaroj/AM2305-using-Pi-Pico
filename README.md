@@ -11,7 +11,7 @@ high cost. Each sensor is extremely accurate humidity calibration chamber calibr
 Following readings were obtained, for the change in the environment conditions, a fan , a wet cloth was used:
 
 Humidity, Temp(C)
-64.6%,   31.4C
+64.6%,   31.4C\\
 64.6%,   31.4C
 64.6%,   31.4C
 64.6%,   31.4C
